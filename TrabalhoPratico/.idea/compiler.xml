@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ejbs" />
+        <module name="jpa" />
+        <module name="web" />
+        <module name="ear" />
+        <module name="ManageCompanyManagers" />
+        <module name="EAR" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Client" target="16" />
+      <module name="logging" target="16" />
+      <module name="primary-source" target="16" />
+      <module name="projects" target="16" />
+      <module name="Server" target="1.7" />
+      <module name="servlet" target="16" />
+      <module name="servlets" target="16" />
+      <module name="simpleweb" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

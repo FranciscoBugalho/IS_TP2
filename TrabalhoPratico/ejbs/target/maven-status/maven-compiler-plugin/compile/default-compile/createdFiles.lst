@@ -1,0 +1,9 @@
+server\Authenticate.class
+server\CompanyManagerEJB.class
+server\ITravelerEJB.class
+server\TravelerEJB.class
+server\ICompanyManagerEJB.class
+server\DailySummaryEJB.class
+server\IAuthenticate.class
+server\IServer.class
+server\Server.class

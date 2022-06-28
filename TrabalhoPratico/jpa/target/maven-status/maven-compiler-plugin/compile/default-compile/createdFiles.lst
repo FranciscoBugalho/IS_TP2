@@ -1,0 +1,5 @@
+book\data\DataConstants.class
+book\data\Client.class
+book\data\CompanyManager.class
+book\data\Traveler.class
+book\data\Trip.class
